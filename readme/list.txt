@@ -1,0 +1,27 @@
+C:\Users\mac>dir
+ 驱动器 C 中的卷是 BOOTCAMP
+ 卷的序列号是 5039-FAFD
+
+ C:\Users\mac 的目录
+
+2015/12/08  12:01    <DIR>          .
+2015/12/08  12:01    <DIR>          ..
+2015/02/04  13:45    <DIR>          .android
+2015/09/14  14:49    <DIR>          .idlerc
+2015/12/08  12:01    <DIR>          .oracle_jre_usage
+2015/05/05  15:57    <DIR>          .swt
+2015/12/02  13:15            72,042 a.txt
+2015/02/02  20:19    <DIR>          Contacts
+2016/03/17  13:08    <DIR>          Desktop
+2016/03/15  18:39    <DIR>          Documents
+2015/11/18  16:31    <DIR>          Favorites
+2015/09/10  10:55    <DIR>          Links
+2015/06/25  13:17                 0 mac_notes.dat
+2016/01/12  13:00    <DIR>          Music
+2016/02/29  11:31    <DIR>          Pictures
+2015/12/02  15:21           283,303 ping.txt
+2015/02/12  11:14    <DIR>          Saved Games
+2015/02/12  11:10    <DIR>          Searches
+2015/02/02  20:19    <DIR>          Videos
+               3 个文件        355,345 字节
+              16 个目录 401,218,621,440 可用字节
